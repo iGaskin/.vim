@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/igaskin/PycharmProjects/Project1_CSCI4511W/.git'
+let g:netrw_dirhist_2='/Users/igaskin/.ssh'
+let g:netrw_dirhist_3='/Users/igaskin/Documents/Thanksgiving FAQ.key'
